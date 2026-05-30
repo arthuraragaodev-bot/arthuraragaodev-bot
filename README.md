@@ -1,39 +1,20 @@
-# 👋 Oi meu Nome é Arthur Aragão Pereira
+# 👋 Oi meu Nome é Arthur Aragão Pereira 
 
-tenho 12 anos e não tenho 
-um notebook pra codar
-por enquanto eu estou usando
-o termux como ambiente de desenvolvimento
+E gosto muito de Engenharia de Software e Ciência da Computação 
 
+## Linguagens 
+- ☕️ **java**:explorando a API java
+- ©️ **C**:explorando gerenciamento de memória ponteiros e a base da computação(CS50 Havard)
+
+## Projetos 
+- **Oficina**:
+- **CS50 labs**:
+## ícones 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ___
 
-## 📖 Linguagem 
+"First, solve the problem.then, write the code"
 
-**Java**
-___
-
-## 🔧 Ferramentas
-
-- 🐧 Linux
-- 🪽 maven
-- 🐱 git(Aprendendo)
-- 🦥 Lazy vim 
-
-___
-
-## 🚀 Objetivo
-
-Me tornar um Engenheiro de Software 
-
-___
-
-## 📚 Conceitos
-
-- Arquiterura em Camadas
-- Persistência de Dados em Arquivos
-- Progamação Orientada a Objetos 
-- Estrutura de Dados
-
-___
 
 
