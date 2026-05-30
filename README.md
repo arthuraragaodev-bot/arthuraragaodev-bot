@@ -9,7 +9,7 @@ E gosto muito de Engenharia de Software e Ciência da Computação
 
 ## Projetos 
 - **Oficina**:
-- **CS50 labs**:
+- **CS50**:
 
 ___
 
