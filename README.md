@@ -1,3 +1,2 @@
 # Oi meu nome é Arthur
-eu tenho 13 anos e estou estudando backend
-backend em java com quarkus(eu ainda vou chegar lá!)
+eu tenho 13 anos e estou estudando cloud com java
