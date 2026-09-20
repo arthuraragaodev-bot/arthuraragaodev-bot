@@ -18,3 +18,6 @@
 - Maven
 
 vou aprender mais!!!
+
+## Situação atual:
+- passando mal
