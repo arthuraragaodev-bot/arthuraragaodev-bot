@@ -1,7 +1,7 @@
 # Oi meu nome é Arthur
 
 - Eu tenho 13 anos
-- Sonho em seguir carreira como engenheiro de software
+- Eu quero seguir carreira como arquiteto de perfomance
 - Quero estudar ciência da computação em universidades do exterior
 
 ## Interesses:
@@ -17,7 +17,4 @@
 - Gradle
 - Maven
 
-vou aprender mais!!!
-
-## Situação atual:
-- passando mal
+## Calma ae
