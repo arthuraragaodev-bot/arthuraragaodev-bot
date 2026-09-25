@@ -4,21 +4,23 @@
   - Eu quero seguir carreira como arquiteto de perfomance
   - Quero estudar ciência da computação em universidades do exterior
 
-- ## Interesses:
+  - ## Interesses:
 
-  - Matemática
-  - Sistemas Operacionais UNIX
-  - Redes de Computadores
-  - Arquitetura de Sistemas
+    - Matemática
+    - Sistemas Operacionais UNIX
+    - Redes de Computadores
+    - Arquitetura de Sistemas
 
-- ## Stack:
+  - ## Stack:
 
-  - Java
-  - Gradle
-  - Maven
+    - Java
+    - Gradle
+    - Maven
 
-- ## Links:
+  - ## Links:
 
-  - [gitlab](https://gitlab.com/arthuraragao-dev) //ta dando erro 503
-  - [codeforces](https://codeforces.com/profile/arthzz_coder)
-  - [leetcode](https://leetcode.com/u/arthuraragao_dev/)
+    - [gitlab](https://gitlab.com/arthuraragao-dev) //ta dando erro 503
+    - [codeforces](https://codeforces.com/profile/arthzz_coder)
+    - [leetcode](https://leetcode.com/u/arthuraragao_dev/)
+
+  - ## you can!
